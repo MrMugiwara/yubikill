@@ -1,3 +1,4 @@
+# You can also define 'hibernate' as action instead of shutdown
 action      shutdown 
 i3          1
 delay       0
